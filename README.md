@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kaiseryy/Kaiseryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kai Zhang
 
-Here are some ideas to get you started:
+**Computer Science · UC San Diego**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Curious about how intelligent systems are built — and how to make them useful.*
+
+</div>
+
+---
+
+### About me
+
+I’m a computer science graduate student interested in software engineering, AI systems, and building practical applications. My background is in computer science at the University of Huddersfield.
+
+### Currently exploring
+
+- AI agents and large language models
+- Software engineering and systems
+- Data structures, algorithms, and problem solving
+
+### Learning in public
+
+[**NeetCode submissions →**](https://github.com/Kaiseryy/neetcode-submissions)  
+A growing collection of algorithm practice and solutions.
+
+---
+
+<div align="center">
+
+*Learn deeply. Build thoughtfully. Keep going.*
+
+</div>
