@@ -4,7 +4,7 @@
 
 **Computer Science · UC San Diego**
 
-*Curious about how intelligent systems are built — and how to make them useful.*
+*Curious about multimodal large language models, AI agents, and efficient AI.*
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ### About me
 
-I’m a computer science graduate student interested in software engineering, AI systems, and building practical applications. My background is in computer science at the University of Huddersfield.
+I’m a computer science graduate student at UC San Diego with interests in multimodal large language models, AI agents, and efficient AI.
 
 ### Currently exploring
 
-- AI agents and large language models
-- Software engineering and systems
-- Data structures, algorithms, and problem solving
+- Multimodal large language models
+- AI agents
+- Efficient AI
 
 ### Learning in public
 
