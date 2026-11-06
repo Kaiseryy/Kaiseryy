@@ -20,11 +20,6 @@ I’m a computer science graduate student at UC San Diego with interests in mult
 - AI agents
 - Efficient AI
 
-### Learning in public
-
-[**NeetCode submissions →**](https://github.com/Kaiseryy/neetcode-submissions)  
-A growing collection of algorithm practice and solutions.
-
 ---
 
 <div align="center">
